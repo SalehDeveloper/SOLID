@@ -51,7 +51,7 @@ High-level modules should not depend on low-level modules. Both should depend on
 
 Clone this repository:
 
-git clone https://github.com/yourusername/solid-principles-demo.git
+git clone https://github.com/SalehDeveloper/SOLID.git
 
 Open the solution in Visual Studio or VS Code.
 
@@ -63,6 +63,6 @@ Feel free to fork this repo, improve the examples, and submit a pull request.
 
 📫 Contact
 
-Ahmad Saleh📧 ahmadsalehdev.22@gmail.com🔗 linkedin.com/in/salehdeveloper
+Ahmad Saleh📧 ahmadsalehdev.22@gmail.com
 
 Happy Coding! 🚀
